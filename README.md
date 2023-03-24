@@ -1,2 +1,2 @@
 # welcome
-just a welcome displaying
+just a welcome displaying thank you
